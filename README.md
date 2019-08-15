@@ -1,8 +1,12 @@
 # Bot-Gasmon
 
+🔻🔻CZYTAJ OPIS🔻🔻
+
 Macie tutaj mojego bocika essa (wrzucam go bo sajmonik mnie wkur***) 
 
-Nie pomagam z instalacją więc nie wypisujcie do mnie bo coś nie działa etc.
+🔸Nie pomagam z instalacją więc nie wypisujcie do mnie bo coś nie działa etc.🔸
+
+🛑🛑Jeżeli coś chcecie co on ma na tym "Project Developers coś tam" piszcie do mnie na pw to wam dam kod :))) 🛑🛑
 
 Twórcy bota:
 Has52/Gasper
