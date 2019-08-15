@@ -6,6 +6,6 @@ Nie pomagam z instalacją więc nie wypisujcie do mnie bo coś nie działa etc.
 
 Twórcy bota:
 Has52/Gasper
-I tam trochę sajmonik coś zrobił 
+I tam trochę sajmonik coś zrobił (a nie czekaj kurwa zajebał kod z neta i sprzedawał xDDDDD)
 
 Pozdro 600
