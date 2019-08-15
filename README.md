@@ -9,3 +9,6 @@ Has52/Gasper
 I tam trochę sajmonik coś zrobił (a nie czekaj kurwa zajebał kod z neta i sprzedawał xDDDDD)
 
 Pozdro 600
+
+
+A PS JEŻELI KTOŚ KUPIŁ OD NIEGO BOTA W PRZECIĄGU OSTATNICH 2 TYGODNI MOŻECIE ZROBIĆ REFUNDA :)) (ZWRÓT PIENIĘDZY) JEŻELI PŁACILIŚCIE PAYPALEM :)))))
