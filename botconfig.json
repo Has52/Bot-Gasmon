@@ -1,7 +1,7 @@
 {
 
   // Token i prefix bota 
-  "token": "", //token bota
+  "token": "CHANGE ME", //token bota
   "prefix": "", //prefix bota
    
    // Baza danych Połączenie 
