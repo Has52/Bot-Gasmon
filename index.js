@@ -5,6 +5,7 @@ const fs = require("fs");
 const fivem = require('fivem-api');
 const mysql = require('mysql');
 const db = require('quick.db');
+const request = require('request');
 bot.commands = new Discord.Collection();
 
 
