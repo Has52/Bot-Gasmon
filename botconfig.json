@@ -1,64 +1,51 @@
 {
 
-  // Token i prefix bota 
-  "token": "CHANGE ME", //token bota
-  "prefix": "", //prefix bota
-   
-   // Baza danych Połączenie 
-  "host": "", //Ip serwera 
-  "user": "", //użytkownik serwera np. root
-  "password": "", //hasło 
-  "database": "", //baza danych np. essentialmode
+  "token": "CHANGE ME", 
+  "prefix": "",
 
-  // Dodawanie do Whitelisty 
-  "wlcommand": "", //Komenda która ma być czyli PREFIXkomenda np !dodaj
-  "guildidwl": "", //id serwera discord tego gdzie ma być komenda od dodawania
-  "kanalwl": "", //nazwa kanału na którym będzie można wpisywać komende do dodawania do whitelisty
+  "host": "", 
+  "user": "",
+  "password": "", 
+  "database": "", 
 
-  //Status serwera 
-  "kanalst": "", // ID kanału tekstowego na którym ma działać status serwera
-  "wiadomoscst": "", // !!!PRZED WPISANIEM TEGO NALEŻY URUCHOMIĆ BOTA I WPISAĆ {WASZ PREFIX}say wiadomosc i wziąść z niego id
-  "ipst": "", //IP I PORT SERWERA FIVEM
-  "maksst": "", //MAKSYMALNA ILOŚĆ OSÓB NA SERWERZE
+  "wlcommand": "", 
+  "guildidwl": "", 
+  "kanalwl": "", 
+
+  "kanalst": "",
+  "wiadomoscst": "", 
+  "ipst": "",
+  "maksst": "",
   "kolorst": "",
   "nazwafoost": "",
   "nazwaglst": "",
 
-  //TICKET SYSTEM
-  "kategoriatic": "", //Stwórz kategorie, i weź z niego id i tutaj wklej
-  "roleidtic": "", //Tutaj wlej id roli @everyone, znajdziesz jej id w "Ustawienia serwera->role->@everyone" i klikasz prawy guzik myszy i kopiujesz id i tutaj wklejasz
-  "komendatic": "", //Komenda na zamykanie ticketu czyli np {PREFIX}zamknij
-  "logitic": "", //id kanalu z logami do ticket systemu
 
-  //////////////KOMENDY/////////////////
+  "kategoriatic": "",
+  "roleidtic": "", 
+  "komendatic": "", 
+  "logitic": "", 
 
-  //Devlog
-  "roladev": "", //nazwa roli, która ma możliwość pisania komendy {PREFIX}Devlog
-  "iddev": "", //id kanału na który ma pisać devlog
-  "komendadev": "", // Nazwa komendy na devlogi
+  "roladev": "", 
+  "iddev": "",
+  "komendadev": "", 
 
-  //hex
-  "rolehex": "", // nazwa roli która ma uprawienia aby pisać ową komende
-  "komendahex": "", // Nazwa komendy hex np {Prefix}hex 
+  "rolehex": "",
+  "komendahex": "",
 
-  //ogloszenia
-  "rolaogl": "", //nazwa roli, która ma możliwość pisania komendy {PREFIX}Devlog
-  "idogl": "", //id kanału na który ma pisać devlog
-  "komendaogl": "", // Nazwa komendy na devlogi
+  "rolaogl": "",
+  "idogl": "", 
+  "komendaogl": "", 
 
-  //poll
-  "rolapoll": "", // nazwa roli która ma uprawienia do używania poll
-  "komendapoll": "", // nazwa komendy na poll/głosowanie
+  "rolapoll": "",
+  "komendapoll": "",
 
-  //propozycje
-  "kanalprop": "", // id kanalu na ktorym ma dzialac propozycje
-  "komendaprop": "", // nazwa komendy na propozycje
+  "kanalprop": "",
+  "komendaprop": "",
 
-  //say
-   "rolasay": "", //rola ktora ma mozliwosc pisania komendy np !say
-   "komendasay": "", // nazwa komendy
+  "rolasay": "",
+  "komendasay": "",
 
-  //wylacz
-   "rolars": "", // rola ktora ma mozliwosc pisania komendy np !rs
-   "komendars": "" //komenda do restartowania bota z poziomu serwera
+  "rolars": "",
+  "komendars": ""
 }
