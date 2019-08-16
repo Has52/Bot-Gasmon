@@ -4,6 +4,8 @@
 
 Macie tutaj mojego bocika essa (wrzucam go bo sajmonik mnie wkur***) 
 
+🔸TUTAJ MACIE WSZYSTKIE OPISANE RZECZY Z PLIKU "botconfig.json": https://pastebin.com/rC9fXDNN 🔸
+
 🔸Nie pomagam z instalacją więc nie wypisujcie do mnie bo coś nie działa etc.🔸
 
 🛑🛑Jeżeli coś chcecie co on ma na tym "Project Developers coś tam" piszcie do mnie na pw to wam dam kod :))) 🛑🛑
