@@ -7,8 +7,7 @@
 🛑🛑JEŻELI KTOŚ MA BŁĄD Z INSTALACJĄ MODUŁU quick.db ODSYŁAM DO TEGO --> https://github.com/TrueXPixels/quick.db/issues/125 🛑🛑
 
 🔸Nie pomagam z instalacją więc nie wypisujcie do mnie bo coś nie działa etc.🔸
-
-🛑🛑Jeżeli coś chcecie co on ma na tym "Project Developers coś tam" piszcie do mnie na pw to wam dam kod :))) 🛑🛑
+🔸Ewentualnie mogę pomóc za opłatą🔸
 
 Twórcy bota:
 Has52/Gasper
