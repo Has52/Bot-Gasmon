@@ -15,6 +15,7 @@ Has52/Gasper
 
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 Jeżeli ktoś chce taką liste graczy 
 
 https://i.imgur.com/uedGh6Z.png
