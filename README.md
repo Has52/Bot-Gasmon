@@ -2,7 +2,6 @@
 
 🔻🔻CZYTAJ OPIS🔻🔻
 
-🔸TUTAJ MACIE WSZYSTKIE OPISANE RZECZY Z PLIKU "botconfig.json": https://discord.gg/Svrh84k 🔸
 
 🛑🛑JEŻELI KTOŚ MA BŁĄD Z INSTALACJĄ MODUŁU quick.db ODSYŁAM DO TEGO --> https://github.com/TrueXPixels/quick.db/issues/125 🛑🛑
 
